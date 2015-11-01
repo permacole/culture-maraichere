@@ -8,7 +8,7 @@ Deux versions PDF aux formats A4 et A5 sont disponibles:
 
 Différences par rapport à l'original:
 - De nombreuses erreurs et coquilles ont été corrigées.
-- Une table des matière plus complète.
+- Une table des matières plus complète.
 - Un Index plus complet, incluant les légumes, les outils et les opérations.
 
 Si vous découvrez, pendant votre lecture, des anomalies, alors vous êtes fortement invités à les rapporter [içi](https://github.com/permacole/culture-maraichere/issues).
