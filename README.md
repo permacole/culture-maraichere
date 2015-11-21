@@ -2,7 +2,10 @@
 
 Ce projet a pour mission de fournir une version numérique, libre et gratuite du "Manuel pratique de la Culture Maraîchère de Paris".
 
-Deux versions PDF aux formats A4 et A5 sont disponibles:
+Parce qu'un livre n'est encore jamais tombé en panne, il vous est aussi proposé une édition papier:
+- [Acheter le livre](http://www.lulu.com/shop/jj-daverne/manuel-pratique-de-culture-maraich%C3%A8re-de-paris/paperback/product-22445490.html)
+
+Téléchargez les fichiers PDF au format A4 ou A5:
 - [Format A4](https://raw.githubusercontent.com/permacole/culture-maraichere/master/CultureMaraichere-FormatA4.pdf)
 - [Format A5](https://raw.githubusercontent.com/permacole/culture-maraichere/master/CultureMaraichere-FormatA5.pdf)
 
